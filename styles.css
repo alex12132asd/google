@@ -1,3 +1,13 @@
-.navbar-right {
-  float: right;
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body {
+  padding-bottom: 70px;
+}
+
+.footer {
+  left: 0 !important;
 }
